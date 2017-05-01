@@ -1,3 +1,3 @@
 # Tracking_DisplayDepth
 Kinect显示检测出来的人体的坐标值（x,y,z）
-![](效果.jpg)
+![](https://github.com/Tacode/Tracking_DisplayDepth/效果.JPG)
